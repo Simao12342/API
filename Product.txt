@@ -1,7 +1,7 @@
 [
   {
 "id": 1, "title": "Товар 1", 
-"description": {
+"description":{
 "Колекція":Grand Chef Krauff,
 "Декор":без малюнка,
 "Тип":набір каструль,
