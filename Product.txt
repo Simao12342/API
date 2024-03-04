@@ -17,6 +17,6 @@ Grand Chef Krauff
 нержавіюча сталь
 Гарантія:
 12 міс.", "price": 100, "image": "https://cdn.27.ua/799/09/31/6883633_1.jpeg"},
-  {"id": 2, "title": "Товар 2", "description": "Siska", "price": 200},
+  {"id": 2, "title": "Товар 2", "description": "Sia", "price": 200},
   {"id": 3, "title": "Товар 3", "description": "Razkrivyshka", "price": 300}
 ]
