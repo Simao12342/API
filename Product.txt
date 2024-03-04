@@ -18,7 +18,7 @@
   {
 "id": 2, 
 "title": "Товар 2", 
-"description": "Опис товару 2", 
+"description": "dfgd", 
 "price": 200, 
 "image":"https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
 },
