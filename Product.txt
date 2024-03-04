@@ -1,5 +1,5 @@
 [
-  {"id": 1, "name": "Товар 1", "description": "Опис товару 1", "price": 100},
-  {"id": 2, "name": "Товар 2", "description": "Опис товару 2", "price": 200},
-  {"id": 3, "name": "Товар 3", "description": "Опис товару 3", "price": 300}
+  {"id": 1, "title": "Набір каструль 6 предметів Grand Chef 1,9/2,6/3,6 л 26-308-005 Krauff", "description": "Опис товару 1", "price": 100, "image": "https://cdn.27.ua/799/09/31/6883633_1.jpeg"},
+  {"id": 2, "title": "Товар 2", "description": "Опис товару 2", "price": 200},
+  {"id": 3, "title": "Товар 3", "description": "Опис товару 3", "price": 300,"image": "https://cdn.27.ua/799/51/44/4084036_1.jpeg"}
 ]
