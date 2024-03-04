@@ -1,10 +1,5 @@
 [
-  {"id": 1, "title": "Набір каструль 6 предметів Grand Chef 1,9/2,6/3,6 л 26-308-005 Krauff", 
-"description": "Каструля Grand Chef 1,9л зі скляною кришкою Ø16см,Каструля Grand Chef 2,6л зі скляною кришкою Ø18см,Каструля Grand Chef 3,6л зі скляною кришкою Ø20см", 
-"price": 3500, 
-"image": "https://cdn.27.ua/799/09/31/6883633_1.jpeg"},
-  {"id": 2, "title": "Чайник 20 см, 2,46 л Specialties 40850-196-0 Demeyere", "description": "hjg", 
-"price": 4 458.90, 
-"image": "https://cdn.27.ua/799/51/44/4084036_1.jpeg"},
-  {"id": 3, "title": "Товар 3", "description": "Razkrivyshka", "price": 300}
+  {"id": 1, "name": "Товар 1", "description": "Опис товару 1", "price": 100},
+  {"id": 2, "name": "Товар 2", "description": "Опис товару 2", "price": 200},
+  {"id": 3, "name": "Товар 3", "description": "Опис товару 3", "price": 300}
 ]
