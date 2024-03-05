@@ -1,5 +1,5 @@
 [
   {"id": 1, "title": "Набір каструль 6 предметів Grand Chef 1,9/2,6/3,6 л 26-308-005 Krauff", "description": "Опис товару 1", "price": 100, "image": "https://cdn.27.ua/799/09/31/6883633_1.jpeg"},
-  {"id": 2, "title": "Товар 2", "description": "Опис товару 2", "price": 200},
+  {"id": 2, "title": "Верстат токарний FDB Maschinen MCF450 827162", "description": "Опис товару 2", "price":13218,"image":"https://cdn.27.ua/799/64/1c/1008668_6.jpeg"},
   {"id": 3, "title": "Товар 3", "description": "Опис товару 3", "price": 300,"image": "https://cdn.27.ua/799/51/44/4084036_1.jpeg"}
 ]
